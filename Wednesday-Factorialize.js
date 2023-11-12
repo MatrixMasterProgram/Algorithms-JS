@@ -4,7 +4,7 @@
 // For example: 5! = 5 * 4 * 3 * 2 * 1 = 120
 
 // Pseudocode
-//1.Create a function that take an integer as a parameter
+//1.Create a function that takes an integer as a parameter
 //2.Create an if statement to check if the number is equal to 0 or 1 then we should return 1
 //3.Create a for loop, it will start from our given number-1
 //and the loop will go inversely
