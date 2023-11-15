@@ -13,7 +13,7 @@
 //6.Create an if statement to check if the num(index) is the largest value
 //If it's true then we resign the largest num to the new index 
 //7.Return the result
-//8.Call it 
+//8.Call the function
 
 //Code
 function largestOfFour(nestArr) {
